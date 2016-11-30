@@ -6,6 +6,7 @@
         <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get(urlTemplate,urlVars)" />
         <added pattern="org.springframework.data.domain.Sort.Sort(direction,properties)" />
         <added pattern="org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.user(username)" />
+        <added pattern="com.hotmart.vo.ErrorResponse.ErrorResponse(status,message)" />
       </blacklist>
     </blacklists>
   </component>
