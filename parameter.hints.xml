@@ -8,6 +8,7 @@
         <added pattern="org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.user(username)" />
         <added pattern="com.hotmart.vo.ErrorResponse.ErrorResponse(status,message)" />
         <added pattern="java.lang.String.split(regex)" />
+        <added pattern="com.hotmart.util.base.entity.ResultActions.addAction(action,available)" />
       </blacklist>
     </blacklists>
   </component>
