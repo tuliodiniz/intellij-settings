@@ -9,6 +9,7 @@
         <added pattern="com.hotmart.vo.ErrorResponse.ErrorResponse(status,message)" />
         <added pattern="java.lang.String.split(regex)" />
         <added pattern="com.hotmart.util.base.entity.ResultActions.addAction(action,available)" />
+        <added pattern="org.springframework.data.domain.Sort.Sort(properties)" />
       </blacklist>
     </blacklists>
   </component>
