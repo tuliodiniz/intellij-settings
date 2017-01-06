@@ -16,6 +16,7 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
