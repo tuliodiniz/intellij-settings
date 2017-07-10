@@ -5,9 +5,6 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="/media/backup/dev/git/vulcano/backend" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -100,7 +97,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8 (1)</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

@@ -9,10 +9,9 @@
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
     </driver>
-    <driver id="derby.embedded" name="Derby (Embedded)" dialect="MySQL">
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
     </driver>
     <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -30,10 +29,9 @@
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="MySQL">
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
       <property name="enable_load_extension" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">

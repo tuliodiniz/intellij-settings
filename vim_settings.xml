@@ -1,0 +1,75 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1499696344815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1498736841157">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/git/vulcano/hot-oauthsecurity/hot-oauthsecurity-ejb/src/main/java/com/hotmart/security/service/UserService.java" timestamp="1499694874724">
+        <mark key="]" line="77" column="80" />
+        <mark key="^" line="77" column="80" />
+        <mark key="." line="77" column="80" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" timestamp="1498817420328">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console.sql" timestamp="1498736805205">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1fbea69e-2ba6-4c45-b291-7737568d920a/console.sql" timestamp="1498661386677">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/__dummy.as" timestamp="1498736978690">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS51c3VhcmlvIHdoZXJlIGVtYWlsID0gJ3R1bGlvLm9saXZlaXJhQGhvdG1hcnQuY29tLmJyJzsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS51c3VhcmlvIHdoZXJlIGVtYWlsID0gJ3R1bGlvLm9saXZlaXJhQGhvdG1hcnQuY29tLmJyJzsK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CgpzZWxlY3QgKiBmcm9tIG1hcmtldHBsYWNlLnBlZGlkb19hZmlsaWFjYW8gd2hlcmUgaWRfc29saWNpdGFudGUgPSAyOTgyNjg1IG9yZGVyIGJ5IGlkIGRlc2M7CmRlbGV0ZSBmcm9tIG1hcmtldHBsYWNlLnBlZGlkb19hZmlsaWFjYW8gd2hlcmUgaWQgPSAxMTY4MzA2OwoKCgpzZWxlY3QgKiBmcm9tIG1hcmtldHBsYWNlLnVzdWFyaW8gd2hlcmUgZW1haWwgPSAnbWF0YWRvckBob3RtYXJ0LmNvbS5icic7CgoKc2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS5wb2NrZXRfc3dpcGUgb3JkZXIgYnkgbm90aWZpY2F0aW9uX2lkIGRlc2MgbGltaXQgMg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CnNlbGVjdCAqIGZyb20gbWFya2V0cGxhY2UudXN1YXJpbyB3aGVyZSBlbWFpbCA9ICdtYXRhZG9yQGhvdG1hcnQuY29tLmJyJzsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>select * from compra c
+  left join comissao_gerada cg on c.id = cg.compra
+where c.transacao = 'HP1851498590348'</text>
+      </register>
+      <register name="-" type="4">
+        <text>select *</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
