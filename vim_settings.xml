@@ -14,11 +14,12 @@
         <mark key="^" line="77" column="80" />
         <mark key="." line="77" column="80" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" timestamp="1498817420328">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="7" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" timestamp="1499709441133">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console.sql" timestamp="1498736805205">
         <mark key="[" line="0" column="6" />
@@ -34,27 +35,33 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">bQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>d</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS51c3VhcmlvIHdoZXJlIGVtYWlsID0gJ3R1bGlvLm9saXZlaXJhQGhvdG1hcnQuY29tLmJyJzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS51c3VhcmlvIHdoZXJlIGVtYWlsID0gJ3R1bGlvLm9saXZlaXJhQGhvdG1hcnQuY29tLmJyJzsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CgpzZWxlY3QgKiBmcm9tIG1hcmtldHBsYWNlLnBlZGlkb19hZmlsaWFjYW8gd2hlcmUgaWRfc29saWNpdGFudGUgPSAyOTgyNjg1IG9yZGVyIGJ5IGlkIGRlc2M7CmRlbGV0ZSBmcm9tIG1hcmtldHBsYWNlLnBlZGlkb19hZmlsaWFjYW8gd2hlcmUgaWQgPSAxMTY4MzA2OwoKCgpzZWxlY3QgKiBmcm9tIG1hcmtldHBsYWNlLnVzdWFyaW8gd2hlcmUgZW1haWwgPSAnbWF0YWRvckBob3RtYXJ0LmNvbS5icic7CgoKc2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS5wb2NrZXRfc3dpcGUgb3JkZXIgYnkgbm90aWZpY2F0aW9uX2lkIGRlc2MgbGltaXQgMg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gbWFya2V0cGxhY2UudXN1YXJpbyB3aGVyZSBlbWFpbCA9ICdtYXRhZG9yQGhvdG1hcnQuY29tLmJyJzsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>select * from compra c
   left join comissao_gerada cg on c.id = cg.compra
 where c.transacao = 'HP1851498590348'</text>
       </register>
       <register name="-" type="4">
-        <text>select *</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
