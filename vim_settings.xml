@@ -16,7 +16,12 @@
         <mark key="^" line="77" column="80" />
         <mark key="." line="77" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/service/impl/DisplayServiceImpl.java" timestamp="1501848944060" />
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/service/impl/DisplayServiceImpl.java" timestamp="1501851617292">
+        <mark key="[" line="77" column="174" />
+        <mark key="]" line="77" column="174" />
+        <mark key="." line="77" column="174" />
+        <mark key="^" line="77" column="102" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" timestamp="1499709441133">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="0" />
@@ -24,6 +29,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/rest/DisplayRest.java" timestamp="1501851179400" />
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/ElasticSearchProductRepository.java" timestamp="1501843754634" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1fbea69e-2ba6-4c45-b291-7737568d920a/console.sql" timestamp="1498661386677">
         <mark key="[" line="0" column="0" />
@@ -36,7 +42,7 @@
       <file name="/a.sql" timestamp="1498736841157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/rest/impl/DisplayRestImpl.java" timestamp="1501844978715" />
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/rest/impl/DisplayRestImpl.java" timestamp="1501851205153" />
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/service/impl/ProductServiceImpl.java" timestamp="1501764009599">
         <mark key="[" line="86" column="70" />
       </file>
@@ -55,8 +61,8 @@
       <register name="1" type="2">
         <text encoding="base64">CQkJPG5hbWU+QVJUSUZBQ1RPUlkwMS1zbmFwc2hvdHM8L25hbWU+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPG5hbWU+QVJUSUZBQ1RPUlkwMS1zbmFwc2hvdHM8L25hbWU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">bQo=</text>
@@ -76,7 +82,7 @@
 where c.transacao = 'HP1851498590348'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>c</text>
       </register>
     </registers>
     <search>
