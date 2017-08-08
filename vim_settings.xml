@@ -11,6 +11,12 @@
         <mark key="]" line="59" column="75" />
         <mark key="." line="59" column="75" />
       </file>
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-jobs/hot-highlights-job/src/main/java/com/hotmart/highlights/tasklet/HighlightTasklet.java" timestamp="1502211634334">
+        <mark key="k" line="369" column="0" />
+        <mark key="[" line="366" column="59" />
+        <mark key="]" line="366" column="59" />
+        <mark key="." line="366" column="59" />
+      </file>
       <file name="$USER_HOME$/dev/git/vulcano/hot-oauthsecurity/hot-oauthsecurity-ejb/src/main/java/com/hotmart/security/service/UserService.java" timestamp="1499694874724">
         <mark key="]" line="77" column="80" />
         <mark key="^" line="77" column="80" />
@@ -51,30 +57,33 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPG5hbWU+QVJUSUZBQ1RPUlkwMS1zbmFwc2hvdHM8L25hbWU+Cg==</text>
+        <text encoding="base64">ICAgIH0KfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>gh</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJPG5hbWU+QVJUSUZBQ1RPUlkwMS1zbmFwc2hvdHM8L25hbWU+Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">bQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS51c3VhcmlvIHdoZXJlIGVtYWlsID0gJ3R1bGlvLm9saXZlaXJhQGhvdG1hcnQuY29tLmJyJzsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgpzZWxlY3QgKiBmcm9tIG1hcmtldHBsYWNlLnBlZGlkb19hZmlsaWFjYW8gd2hlcmUgaWRfc29saWNpdGFudGUgPSAyOTgyNjg1IG9yZGVyIGJ5IGlkIGRlc2M7CmRlbGV0ZSBmcm9tIG1hcmtldHBsYWNlLnBlZGlkb19hZmlsaWFjYW8gd2hlcmUgaWQgPSAxMTY4MzA2OwoKCgpzZWxlY3QgKiBmcm9tIG1hcmtldHBsYWNlLnVzdWFyaW8gd2hlcmUgZW1haWwgPSAnbWF0YWRvckBob3RtYXJ0LmNvbS5icic7CgoKc2VsZWN0ICogZnJvbSBtYXJrZXRwbGFjZS5wb2NrZXRfc3dpcGUgb3JkZXIgYnkgbm90aWZpY2F0aW9uX2lkIGRlc2MgbGltaXQgMg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gbWFya2V0cGxhY2UudXN1YXJpbyB3aGVyZSBlbWFpbCA9ICdtYXRhZG9yQGhvdG1hcnQuY29tLmJyJzsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>select * from compra c
   left join comissao_gerada cg on c.id = cg.compra
 where c.transacao = 'HP1851498590348'</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>gh</text>
       </register>
     </registers>
     <search>
