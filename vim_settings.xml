@@ -22,6 +22,7 @@
         <mark key="^" line="77" column="80" />
         <mark key="." line="77" column="80" />
       </file>
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/service/impl/DisplayServiceImpl.java" timestamp="1502283307474" />
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/ElasticSearchRepository.java" timestamp="1502215089656" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" timestamp="1499709441133">
         <mark key="'" line="12" column="0" />
@@ -30,6 +31,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/HighlightRepository.java" timestamp="1502283588472" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1fbea69e-2ba6-4c45-b291-7737568d920a/console.sql" timestamp="1498661386677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -38,6 +40,7 @@
       <file name="/__dummy.as" timestamp="1498736978690">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/PageRepository.java" timestamp="1502283609263" />
       <file name="/a.sql" timestamp="1498736841157">
         <mark key="[" line="0" column="0" />
       </file>
