@@ -45,16 +45,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/rest/impl/DisplayRestImpl.java" timestamp="1502364788580" />
+      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/rest/impl/DisplayRestImpl.java" timestamp="1502389864771">
+        <mark key="[" line="167" column="24" />
+        <mark key="]" line="167" column="24" />
+        <mark key="." line="167" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/resources/application.properties" timestamp="1502215161802" />
-      <file name="$MAVEN_REPOSITORY$/com/hotmart/lib/util-lib/0.0.2-SNAPSHOT/util-lib-0.0.2-20160929.192227-3.jar!/com/hotmart/util/http/IpUtils.class" timestamp="1502372388265" />
+      <file name="$MAVEN_REPOSITORY$/com/hotmart/lib/util-lib/0.0.2-SNAPSHOT/util-lib-0.0.2-20160929.192227-3.jar!/com/hotmart/util/http/IpUtils.class" timestamp="1502389886804" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console.sql" timestamp="1498736805205">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-microservices/src/main/java/com/hotmart/display/commands/HighlightCommand.java" timestamp="1502285345806" />
-      <file name="/fragment.java" timestamp="1502365311025">
+      <file name="/fragment.java" timestamp="1502389882013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-microservices/src/main/java/com/hotmart/display/consumer/HotmarterConsumer.java" timestamp="1502215272260" />
@@ -67,8 +71,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgT2JqZWN0PiByZXF1ZXN0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIFN0cmluZyBsPSAiaHR0cHM6Ly9hcGktZGlzcGxheS5idWlsZHN0YWdpbmcuY29tL21pY3Jvc2VydmljZXMvaGlnaGxpZ2h0IjsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgT2JqZWN0PiByZXF1ZXN0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIFN0cmluZyBsPSAiaHR0cHM6Ly9hcGktZGlzcGxheS5idWlsZHN0YWdpbmcuY29tL21pY3Jvc2VydmljZXMvaGlnaGxpZ2h0IjsK</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIH0KfQo=</text>
@@ -94,7 +98,7 @@
 where c.transacao = 'HP1851498590348'</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
