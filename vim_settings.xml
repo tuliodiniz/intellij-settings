@@ -32,23 +32,11 @@
         <mark key="." line="59" column="75" />
       </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/ElasticSearchRepository.java" timestamp="1502215089656" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console_2.sql" timestamp="1499709441133">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/HighlightRepository.java" timestamp="1502283588472" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1fbea69e-2ba6-4c45-b291-7737568d920a/console.sql" timestamp="1498661386677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/rest/impl/DisplayRestImpl.java" timestamp="1502389864771">
-        <mark key="[" line="167" column="24" />
-        <mark key="]" line="167" column="24" />
-        <mark key="." line="167" column="24" />
       </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/resources/application.properties" timestamp="1502215161802" />
       <file name="$MAVEN_REPOSITORY$/com/hotmart/lib/util-lib/0.0.2-SNAPSHOT/util-lib-0.0.2-20160929.192227-3.jar!/com/hotmart/util/http/IpUtils.class" timestamp="1502389886804" />
