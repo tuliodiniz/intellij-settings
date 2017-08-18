@@ -23,28 +23,13 @@
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-microservices/src/main/java/com/hotmart/display/DisplayService.java" timestamp="1502215260821" />
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/service/DisplayService.java" timestamp="1502364479317" />
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-microservices/src/main/java/com/hotmart/display/NotificationController.java" timestamp="1502303571147" />
-      <file name="/Dummy.txt" timestamp="1499696344815">
+      <file name="/Dummy.txt" timestamp="1503064052390">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/pom.xml" timestamp="1501844631539">
-        <mark key="[" line="59" column="74" />
-        <mark key="]" line="59" column="75" />
-        <mark key="." line="59" column="75" />
       </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/ElasticSearchRepository.java" timestamp="1502215089656" />
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/java/com/hotmart/display/repository/HighlightRepository.java" timestamp="1502283588472" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1fbea69e-2ba6-4c45-b291-7737568d920a/console.sql" timestamp="1498661386677">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-back/src/main/resources/application.properties" timestamp="1502215161802" />
       <file name="$MAVEN_REPOSITORY$/com/hotmart/lib/util-lib/0.0.2-SNAPSHOT/util-lib-0.0.2-20160929.192227-3.jar!/com/hotmart/util/http/IpUtils.class" timestamp="1502389886804" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08b7e41e-7a8a-4bab-b839-de2dcedeb738/console.sql" timestamp="1498736805205">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/git/display/hotmart-display/hot-display-microservices/src/main/java/com/hotmart/display/commands/HighlightCommand.java" timestamp="1502285345806" />
       <file name="/fragment.java" timestamp="1502389882013">
         <mark key="[" line="0" column="0" />
