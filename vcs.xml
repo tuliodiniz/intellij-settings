@@ -22,8 +22,12 @@
           <option name="url" value="git@github.com:Hotmart-Org/hot-plus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Hotmart-Org/hot-utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/media/backup/dev/git/intellij" />
+    <option name="cloneParentDir" value="/media/backup/dev/git/vulcano/backend" />
   </component>
 </application>
