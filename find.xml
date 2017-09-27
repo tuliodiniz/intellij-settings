@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[hot-product-ejb] - .../hot-marketplace/hot-product-ejb/src/main/java/com/hotmart/marketplace/product/service/impl/ProductServiceImpl.java'" />
+    <option name="defaultScopeName" value="File '[hot-product-ejb] - .../hot-marketplace/hot-product-ejb/src/main/java/com/hotmart/marketplace/product/service/impl/ProductServiceImpl.java'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[hot-product-ejb] - .../hot-marketplace/hot-product-ejb/src/main/java/com/hotmart/marketplace/product/service/impl/ProductServiceImpl.java'" />
   </component>
 </application>
