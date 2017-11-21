@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -19,6 +17,13 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>*Mehtods.java</mask>
+      <mask>*Mehtod.java</mask>
+      <mask>*Mehto.java</mask>
+      <mask>*Meht.java</mask>
+      <mask>*Meh.java</mask>
+      <mask>*Me.java</mask>
+      <mask>*M.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
