@@ -3,4 +3,12 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_SCALE" value="1.25" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bhpj\b.*" />
+    <filter name="HPJ">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
