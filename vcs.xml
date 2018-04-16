@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/ASaunin/social-network-spring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Hotmart-Org/api-marketplace-eticket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/tests" />
