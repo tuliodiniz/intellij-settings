@@ -40,6 +40,12 @@
             <Goal>
               <option name="commandLine" value="clean install -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -nsu -DskipTests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -o -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>

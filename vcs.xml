@@ -42,4 +42,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/tests" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+  </component>
 </application>
