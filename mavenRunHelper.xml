@@ -46,6 +46,9 @@
             <Goal>
               <option name="commandLine" value="clean install -o -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -Dgpg.skip=true" />
+            </Goal>
           </list>
         </option>
       </Goals>
