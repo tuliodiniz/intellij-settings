@@ -5,6 +5,7 @@
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="build.gradle" type="PLAIN_TEXT" />
       <mapping pattern="specialcampaign" type="PLAIN_TEXT" />
+      <mapping ext="pr" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
