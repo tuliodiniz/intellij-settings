@@ -1,14 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile_coupon" type="PLAIN_TEXT" />
-      <mapping pattern="deploy" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern=".transifexrc" type="PLAIN_TEXT" />
-      <mapping pattern="build.gradle" type="PLAIN_TEXT" />
-      <mapping pattern="specialcampaign" type="PLAIN_TEXT" />
-      <mapping ext="pr" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
