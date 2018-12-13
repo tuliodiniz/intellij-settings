@@ -49,6 +49,9 @@
             <Goal>
               <option name="commandLine" value="clean install -Dgpg.skip=true" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="-Dpayu.one.click.token=914c3e86-ffc9-44cc-b9b9-65ad3ab667f7 -Dfail.retries.count=6 -Dserver=http://localhost:1666 test" />
+            </Goal>
           </list>
         </option>
       </Goals>
