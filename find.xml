@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '~/dev/git/vulcano/api-affiliation/src/test/kotlin/com/hotmart/api/affiliation/client/mapper/ClicksLeadsFilterDTOMapperTest.kt [api-affiliation]'" />
+    <option name="defaultScopeName" value="File '~/dev/git/vulcano/api-affiliation/src/test/kotlin/com/hotmart/api/affiliation/client/mapper/ClicksLeadsFilterDTOMapperTest.kt [api-affiliation]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/git/vulcano/api-affiliation/src/test/kotlin/com/hotmart/api/affiliation/client/mapper/ClicksLeadsFilterDTOMapperTest.kt [api-affiliation]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
