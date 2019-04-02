@@ -9,9 +9,10 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonarqube.hotmart.com" />
-          <token>df92df98df99dfc9df9bdf99df9bdf9fdfcbdf93dfccdf9bdf98dfcedf9adf9fdf98dfc8df9edf99dfccdfc9dfcbdf98dfccdf9edfcedf99dfcbdfccdf92df98df98dfcbdf93dfccdf93dfcedf9cdfcb</token>
+          <option name="hostUrl" value="http://sonarqube.vulcano.rocks" />
+          <token>dfccdf9ddf99dfc8df9ddfc9dfcfdfccdfcfdfc9df99dfc9dfc8dfccdfc8dfccdf92dfcbdfcedf98dfccdfccdf9adfc8df9bdfc8dfcfdf99df9adfccdf98df9fdf93df93df9ddf93df9bdf99df9adfcc</token>
           <option name="name" value="Hotmart" />
+          <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
